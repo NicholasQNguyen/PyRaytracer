@@ -24,4 +24,5 @@ make run
 
 ### To Adjust the Scene:
 Go to modules/raytracing/scene
+
 In there, you can change which shapes appear
